@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Trabajo</string>
+    <string name="bienvenidos">Bienvenidos</string>
+    <string name="informacion">INFORMACION</string>
+    <string name="pagina_siguiente">Pagina Siguiente</string>
+    <string name="todo">TODO</string>
+    <string name="bienvenidos_a_mi_trabajo">Bienvenidos a mi trabajo</string>
+    <string name="informacion1">Informacion</string>
+    <string name="content_con_nuestro_trabajo">Content@ con nuestro trabajo</string>
+    <string name="volver_inicio">Volver Inicio</string>
+    <string name="abrir_navegador">Abrir Navegador</string>
+    <string name="volver_atras">Volver Atras</string>
+    <string name="pagina_1">PAGINA 1</string>
+    <string name="contactos">Contactos</string>
+    <string name="prueba1">PRUEBA1</string>
+    <string name="priueba2">PRIUEBA2</string>
+    <string name="pagina_2">Pagina 2</string>
+    <string name="esto_de_la_izquierda_es_una_imagen">ESTO DE LA IZQUIERDA ES UNA IMAGEN</string>
+    <string name="atras">Atras</string>
+    <string name="pag2">Pag2</string>
+</resources>
